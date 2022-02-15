@@ -1,5 +1,6 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
+No momento busco transição de carreira. Iniciei minha jornada na programação em 2021. No momento faço o **Bootcamp MRV Fullstack Developer** pela DIO, também iniciei faculdade de ADS em 02/2022.
 <div align="center">
   <a href="https://github.com/natheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natheus&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
