@@ -1,6 +1,6 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
-No momento busco transição de carreira. Iniciei minha jornada na programação no meio de 2021, e estou graduando em ADS.
+No momento busco transição de carreira. Iniciei minha jornada na programação no meio de 2021 e estou me graduando em ADS.
 <div align="center">
   <a href="https://github.com/natheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natheus&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
