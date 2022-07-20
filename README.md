@@ -1,6 +1,6 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
-Sou Denvolvedor de software e estou graduando em ADS.
+Sou desenvolvedor de software e estou graduando em ADS.
 
 <div align="center">
   <a href="https://github.com/natheus">
