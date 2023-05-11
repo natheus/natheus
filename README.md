@@ -1,6 +1,6 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
-Sou desenvolvedor de software e estou graduando em ADS.
+Estou graduando em ADS e atualmente trabalho como desenvolvedor back-end, usando C#/.NET, banco de dados SQL Microsoft SQL Server e NoSQL MongoDB.
 
 <div align="center">
   <a href="https://github.com/natheus">
