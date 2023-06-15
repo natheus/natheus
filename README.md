@@ -1,10 +1,19 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
-Estou graduando em ADS e atualmente trabalho como desenvolvedor back-end, usando C#/.NET, banco de dados SQL Microsoft SQL Server e NoSQL MongoDB.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e atuando profissionalmente como desenvolvedor back-end pleno. Possuo experiência com as seguintes tecnologias:
+
+- 💻 Linguagens de programação: C#, JavaScript
+- 🚀 Framework: .NET, Angular
+- 🗄️ Bancos de dados: Microsoft SQL Server (SQL) e MongoDB (NoSQL)
+
+## Contribuições
+
+Se você tiver alguma sugestão ou feedback sobre meus projetos, sinta-se à vontade para abrir uma nova issue ou enviar um pull request. Ficarei feliz em colaborar e melhorar o código! ✨
+
+Fique à vontade para entrar em contato comigo!
 
 <div align="center">
   <a href="https://github.com/natheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natheus&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natheus&layout=compact&langs_count=7&theme=buefy"/>
 </div>
  
