@@ -1,6 +1,6 @@
 ## Olá, Devs! Eu sou o Matheus, mas pode me chamar de Natheus, com N mesmo!
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e atuando profissionalmente como desenvolvedor back-end pleno. Possuo experiência com as seguintes tecnologias:
+Graduado em Análise e Desenvolvimento de Sistemas (ADS), atuo profissionalmente como desenvolvedor back-end pleno. Possuo experiência com as seguintes tecnologias:
 
 - 💻 Linguagens de programação: C#, JavaScript
 - 🚀 Framework: .NET, Angular
